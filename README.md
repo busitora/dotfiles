@@ -10,4 +10,3 @@ $ make link
 # シンボリックリンクを削除する
 $ make clear
 ```
-
