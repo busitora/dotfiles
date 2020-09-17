@@ -1,0 +1,6 @@
+color date cyan default
+color graph-commit cyan default
+color "index " cyan default
+color "diff-tree " cyan default
+color "Merge: " white default
+color diff-stat cyan default
