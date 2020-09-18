@@ -1,28 +1,40 @@
 ## PC setup for me
 
 ### 便利ツール
-・Alfred
-・Clipy
+・Alfred(⌘×)
+・Clipy(option×2)
 ・Spectacle
 ・Google翻訳
 ・BetterTouchTool
 ・PopClip
+・Dash
+・ClCLlite
 
 
 ### 標準
 ・Chrome(GMail/Keep)
 ・Gyazo
 ・1password
-・Evernote
+・Evernote(Skitch)
 ・Kindle
-・Slack
+・Slack(Discord)
 ・Zoom(Skype)
+・LINE
 
 ### コーディング
 ・Rubymine(Vscode)
 ・Docker for Mac
-・AppCleaner
+・AppCleaner(Dr.cleaner)
 ・iTerm
 ・SequelPro
 ・Postman
 
+### MAC設定(システム環境設定)
+
+#### キーボード
+・キーのリピート → 速さMAX
+・リピート入力認識までの時間 → 速さMAX
+
+### トラックパッド
+
+<img width="662" alt="スクリーンショット 2020-09-18 9 24 42" src="https://user-images.githubusercontent.com/45115447/93541228-ca212c80-f990-11ea-90dd-535bec1c0a06.png">
