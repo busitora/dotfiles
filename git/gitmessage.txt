@@ -1,0 +1,23 @@
+# ==== Emojis ====
+# 🐛 :bug:          バグ修正
+# 🚿 :shower:       修正やコメント
+# 👍 :+1:          【normal_add】機能、ファイル追加or変更
+# 💎 :gem:         【gem】gemやパッケージ等の追加
+# 🎉 :tada:        【big_add】大きな変更やロジックを含むコミット
+# 🗑️ :wastebasket:  不要な機能・使われなくなった機能・コメントの削除
+# ♻️ :recycle:      リファクタリング
+# 💚 :green_heart:  テストやCIの修正・改善
+# 🆙 :up:           依存パッケージなどのアップデート関係
+# 🔧 :wrench:       Rubocopの修正などのコード改善
+# 🎨 :art:          デザインUI/UXの改善
+# 🚀 :rocket:       パフォーマンス改善
+# 👮 :cop:          セキュリティ関連の改善
+
+# ==== rule ====
+
+# 👍 → 通常add
+# 💎 → gemやダウンロード等の追加
+# 🎉 → 大きな変更やロジックが絡む時のコミット → 他人がコードを追う必要があるか否か
+
+# macOSの場合、Ctrl + ⌘ + Space で絵文字パレットを呼び出せます
+# https://github.com/dannyfritz/commit-message-emoji/blob/master/INTEGRATIONS.md
