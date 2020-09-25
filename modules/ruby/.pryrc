@@ -4,7 +4,6 @@ if defined?(PryByebug)
   Pry.commands.alias_command "f", "finish"
   Pry.commands.alias_command "c", "continue"
   Pry.commands.alias_command "e", "exit"
-  Pry.config.editor="vim"
 end
 
 require "awesome_print"
