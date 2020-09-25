@@ -11,4 +11,4 @@ AwesomePrint.pry!
 # もし挙動がおかしければ上記消せばOK
 # https://github.com/awesome-print/awesome_print
 #
-# gem "pry-rails" と gem "awesome_print" が必要
+# gem "pry-rails" , gem "awesome_print" ,gem "pry-byebug" が必要
